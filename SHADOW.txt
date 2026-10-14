@@ -1,0 +1,6 @@
+shadow prebuilt repo: libhidl_gen_utils (target)
+  upstream: system/libhidl/gen_utils
+  api-level: 34 (branch 34-20261010)
+  blobs: org.blisslabs.ag.ext.libhidl.gen.utils-14000001.apex 
+  dev-src: none (no dev subpackage)
+  date: 2026-10-10
